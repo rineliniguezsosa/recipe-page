@@ -1,9 +1,5 @@
 @media (max-width:375px) {
 
-    html,body {
-        /* border:2px green solid */
-    }
-
     main {
        border: none;
        justify-content: flex-start;
@@ -12,7 +8,6 @@
 
     article {
         border-radius: 0;
-        /* border:4px red solid; */
         height: auto;
         width: 100%;
         margin: 0px;
@@ -26,7 +21,6 @@
 
     .container-recipe {
         padding: 15px;
-        /* border:6px orange solid; */
     }
 
     .attribution {
