@@ -1,7 +1,7 @@
 @media (max-width:375px) {
 
     html,body {
-        border:4px green solid
+        border:2px green solid
     }
 
     main {
@@ -21,6 +21,11 @@
     article img {
         height: 200px;
         border-radius: 0;
+    }
+    
+    .container-recipe {
+        padding: 15px;
+        border:6px orange solid;
     }
 
     .attribution {
