@@ -137,3 +137,54 @@ article img {
     padding-left:15px;
     max-width: 100%;
 }
+
+.instructions {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px hsl(30, 18%, 87%) solid;
+    padding: 30px 0px;
+}
+
+.instructions h3 {
+    color:hsl(14, 45%, 36%);
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.8rem;
+    padding-bottom: 25px;
+}
+
+.instructions ol {
+    list-style-position: outside;
+    padding-left: 20px;
+} 
+
+.instructions li {
+    color:hsl(30, 10%, 34%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    text-align: start;
+    padding-left:15px;
+    max-width: 100%;
+}
+
+.instructions li::marker{
+    color:hsl(14, 45%, 36%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 1rem;
+}
+
+.instructions strong {
+    font-size: 1rem;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
