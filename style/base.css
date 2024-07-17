@@ -6,7 +6,7 @@
 
 html, body {
     height: auto;
-    border:2px red solid;
+    border:2px gray solid;
 }
 
 main {
@@ -35,6 +35,13 @@ article img {
     border-radius: 10px;
     max-height: 300px;
     height: auto;
+}
+
+.container-recipe {
+    max-width: 100%;
+    box-sizing: border-box;
+    height: auto;
+    border:1px red solid
 }
 
 .title {
