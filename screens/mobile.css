@@ -18,6 +18,11 @@
         padding: 0;
     }
 
+    article img {
+        height: 200px;
+        border-radius: 0;
+    }
+
     .attribution {
         display:none
     }
