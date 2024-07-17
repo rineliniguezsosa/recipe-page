@@ -80,3 +80,11 @@ article img {
     font-weight: 700;
     font-style: normal;
 }
+
+.preparation strong {
+    font-size: 0.9rem;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
