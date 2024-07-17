@@ -3,3 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+html, body {
+    height: auto;
+    border:2px red solid;
+}
+
+main {
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border:4px blue solid;
+    background-color: hsl(30, 54%, 90%);
+}
+
+article {
+    width:100%;
+    border:6px green solid;
+    height: auto;
+    max-width: 600px;
+    padding: 20px;
+    margin: auto;
+}
+
+article img {
+    width: 100%;
+}
