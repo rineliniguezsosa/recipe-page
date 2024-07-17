@@ -25,9 +25,12 @@ article {
     height: auto;
     max-width: 600px;
     padding: 20px;
-    margin: auto;
+    /* margin: auto; */
 }
 
 article img {
     width: 100%;
+    border-radius: 10px;
+    max-height: 300px;
+    height: auto;
 }
