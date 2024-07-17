@@ -71,3 +71,12 @@ article img {
     max-width: 100%;
     height: auto;
 }
+
+.preparation span {
+    color:hsl(332, 51%, 32%);
+    font-size: 1.3rem;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
