@@ -1,0 +1,24 @@
+@media (max-width:375px) {
+
+    html,body {
+        border:4px green solid
+    }
+
+    main {
+       border: none;
+       justify-content: flex-start;
+    }
+
+    article {
+        border-radius: 0;
+        border:4px red solid;
+        height: auto;
+        width: 100%;
+        margin: 0px;
+        padding: 0;
+    }
+
+    .attribution {
+        display:none
+    }
+}
